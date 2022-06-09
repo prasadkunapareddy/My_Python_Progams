@@ -9,6 +9,7 @@
 #print(list)
 
 
+# To print list on fruits
 fruits = ["apple", "banana", "cherry", "kiwi", "mango"]
 newlist = []
 
@@ -33,6 +34,8 @@ print("Output Set using for loop:", output_set)
 
 
 
+
+# To calculate Matrix
 matrix = []
 
 for i in range(5):
